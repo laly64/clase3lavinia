@@ -5,10 +5,14 @@
  */
 package clase3lavinia;
 
-/**
- *
- * @author LAB02
- */
+/*********************************************************************************************************************************
+ *  Lavinia Avalos Oyarzo
+ *  @author LAB02
+ *  Fecha:Octubre 26 de 2017
+ *  Programa: Clase3lavinia
+ *  Responsabilidad: Clase Prncipal
+ *****************************************************************************************************************************/
+ 
 public class Clase3Lavinia {
 
     /**
